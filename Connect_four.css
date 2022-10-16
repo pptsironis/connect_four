@@ -1,0 +1,19 @@
+table{
+    margin: auto;
+}
+
+td{
+    margin: auto;
+    width: 102px;
+    height: 102px;
+}
+
+button{
+    margin: 1px;
+    border: black 4px solid;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+
